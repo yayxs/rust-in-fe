@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "swc ./ts.ts -o output.js"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.4.0",
+    "@swc/core": "^1.6.13"
+  }
+}

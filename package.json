@@ -4,6 +4,9 @@
     "OXC",
     "parser",
     "linter",
-    "formatter"
+    "formatter",
+    "Speedy Web Compiler",
+    "compilation",
+    "Babel"
   ]
 }
