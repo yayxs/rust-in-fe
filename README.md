@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <table>
-      <thead>
-        <tr>
-          <th align="center">Base Rust</th>
-
-          <th align="center">Info</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center">
-            <a href="xxxxxxxxx">xxxxxxx</a>
-          </td>
-          <td align="center">222222222222222222222222</td>
-        </tr>
-      </tbody>
-    </table>
-
-  </body>
-</html>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Base Rust</th>
+      <th align="center">Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://docs.deno.com/">Deno</a>
+      </td>
+      <td align="center">Runtime for TypeScript and JavaScript / Deno (/ˈdiːnoʊ/, pronounced dee-no) is an open source JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.</td>
+    </tr>
+  </tbody>
+</table>
